@@ -16,7 +16,7 @@ from rich.text import Text as tekz
 from time import localtime as lt
 pretty.install()
 CON=sol()
- #------------------[ YUBRAJ-XWD ]-------------------#
+ #------------------[ YUBRAJ-XD ]-------------------#
 import os, platform, time, sys
 print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mWelCome To YUBRAJ XWD Tool...! ')
 os.system('espeak -a 300 " Welcome,  to,  YUBRAJ,  XWD, tool"')
